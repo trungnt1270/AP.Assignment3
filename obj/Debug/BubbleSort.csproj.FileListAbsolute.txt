@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LearnAlgorithms\bin\Debug\LearnAlgorithms.exe.config
+C:\Users\Admin\source\repos\LearnAlgorithms\bin\Debug\LearnAlgorithms.exe
+C:\Users\Admin\source\repos\LearnAlgorithms\bin\Debug\LearnAlgorithms.pdb
+C:\Users\Admin\source\repos\LearnAlgorithms\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LearnAlgorithms\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LearnAlgorithms\obj\Debug\LearnAlgorithms.exe
+C:\Users\Admin\source\repos\LearnAlgorithms\obj\Debug\LearnAlgorithms.pdb
